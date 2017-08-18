@@ -1,0 +1,10 @@
+*.mov
+*.pyc
+*.spec
+*.avi
+*.mp4
+*.swp
+frames/
+output/
+build/
+dist/
